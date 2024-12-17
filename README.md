@@ -1,7 +1,5 @@
 # Medical-ChatBot
-Medical Chatbot - Gen AI
-
-# Medical-Chatbot-using-Llama2
+Medical Chatbot - using - Llama2
 
 # How to run?
 ### STEPS:
