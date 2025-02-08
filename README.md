@@ -3,6 +3,7 @@ Medical Chatbot - with BioMistral Open Source LLM
 
 # Data
 HealthyHeart
+
 # Frame works
 Langchain -Pipeline
 Llama -LLM Model
@@ -15,7 +16,6 @@ Embedding - PubMedBert_Base_Embedding
 
 # Process
 Two Parts
-
 # Part 1: Indexing
 1.Load the document and parse the text
 2.Divide Text into Chuncks - Chuncking
